@@ -1,0 +1,13 @@
+/.idea
+/wp-content/themes/img/node_modules
+/wp-content/themes/img/package-lock.json
+wp-config.php
+*package-lock.json
+wp-content/uploads
+.DS_Store
+.DS_Store?
+*.sublime-project
+wp-content/cache
+.htaccess
+error_log
+.fptquota
